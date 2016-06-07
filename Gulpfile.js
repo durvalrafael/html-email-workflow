@@ -13,7 +13,7 @@ var emailBuilder = require('gulp-email-builder');
 //    email : 'duurval@gmail.com',
 
 //    // Your email Subject
-//    subject : 'Email Pagseguro',
+//    subject : 'Email Subject',
 
 //    // Optional
 //    transport: {
